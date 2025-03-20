@@ -1,0 +1,57 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,700;1,300&display=swap');
+*{
+    margin: 1px;
+    padding: 1px;
+    background-color:gray;
+    font-family: 'Lato', sans-serif;
+
+}
+table,
+    th,
+    td {
+        border: 0px solid black;
+        font-size: 15px;
+        text-align: center;
+       
+    }
+    .month{
+        font-size:medium;
+    }
+
+    .red {
+        background-color: RED;
+color: white;
+border-radius: 50%;
+width: 100%;
+       
+    }
+
+    .blue {
+        color: blue;
+    }
+    h3{
+    
+       font-size: 30PX;
+       
+    }
+    .day {
+        background-image: url('DEEPAK.jpg');
+  background-size: cover; /* Adjust as needed */
+  background-repeat: no-repeat; /* Adjust as needed */
+  height: 100%; /* Adjust height as needed */
+  width: 100%;
+  border-radius: 50%;
+    }
+    .ram {
+        background-color: aqua;
+    
+    }
+    .image{height: 100px;
+        width: 200px;
+        padding: 0px;
+        text-align: right;
+    }
+        
+    
+
+   
